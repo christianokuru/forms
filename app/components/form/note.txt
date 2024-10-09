@@ -1,0 +1,3 @@
+                                        NOTE TO ANYONE READING THIS
+I created the form as a differnt component instead of putting it directly on the auth pages because the forms are going to be client components.
+I don't want the page to be a client. I want to be able to set server actions on the auth pages. 
